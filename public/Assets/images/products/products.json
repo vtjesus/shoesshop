@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Air Jordan 1 Zoom CMFT 2",
+        "description": "Premium suede and Jordan Brand's signature Formula 23 foam come together to give you an extra luxurious (and extra cozy) AJ1. You don't need to play either or when it comes to choosing style or comfort with this one—which is nice, 'cause you deserve both.",
+        "price": 90.97,
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/037c28bc-ccaa-40ff-9e03-03701324155c/AIR+JORDAN+1+ZM+AIR+CMFT+2.png"
+    },
+    {
+        "name": "Jordan Stay Loyal 3",
+        "description": "You gotta know where you've been to know where you're going. We took that to heart when creating the Stay Loyal 3, a modern shoe built on the Air Jordan legacy. Inside and out, they're made for versatility, with minimalist looks, cloud-like cushioning and design elements that echo the AJ4. In other words, style with proven lasting power.",
+        "price": 86.97,
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d9aeda4d-8928-4495-91bd-bef61255eb8b/JORDAN+STAY+LOYAL+3.png"
+    },
+    {
+        "name": "Air Jordan 1 Zoom CMFT 2 SE \"YW\"",
+        "description": "Hidden details, soft suede and Jordan Brand's signature Formula 23 foam come together in this special edition AJ1. Scratch-off and reveal the Wings logo or peek inside for extra details on the sockliner. You're welcome.",
+        "price": 150,
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/82ac0411-d6f9-4ee1-8af6-10d7a335426c/W+AIR+JORDAN+1+ZM+AIR+CMFT+2.png",
+        "category": "Nike"
+    },
+    {
+        "name":"Nike Dunk Low",
+        "description": "Created for the hardwood but taken to the streets, the '80s b-ball icon returns with a crisp upper and refreshing color combos. Channeling vintage style back onto the streets, its padded, low-cut collar lets you take your game anywhere—in comfort.",
+        "price": 97.97,
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/5d017fbc-6f7e-40b9-810e-eedd6bcc3e90/W+NIKE+DUNK+LOW+NEXT+NATURE.png",
+        "category": "Nike"
+    },
+    {
+        "name": "Air Jordan 1 Low Method of Make",
+        "description": "The latest luxe creation from the Method of Make series takes your 'fit beyond the norm. The tonal design is color-matched throughout, from the tongue to the laces to the outsole. Oversized leather stitch detailing and super-clean metallic accents add a textural touch.",
+        "price": 108.97,
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/2ce111f2-d961-485d-ad03-6a22d1ea78bb/WMNS+AIR+JORDAN+1+MM+LOW.png",
+        "category": "Nike"
+    },
+    {
+        "name": "Authentic Lowpro Shoe",
+        "description": "The Authentic Lowpro returns with an embroidered checkerboard upper that brings a unique graphic look to this slimmed-down silhouette. Finished with iconic rubber waffle outsoles and the recognizable aesthetic of our original Authentic, the Authentic Lowpro is a timeless take on a perennial classic. Whether you call it a Lowpro, Low Pro, Low-Pro, Lo pro, or Lo-pro, it all refers to the same slimmed-down classic style you love.",
+        "price": 65.00,
+        "image": "https://images.vans.com/is/image/Vans/VN000D04_1KP_HERO?wid=1600&hei=1984&fmt=jpeg&qlt=90&resMode=sharp2&op_usm=0.9,1.7,8,0",
+        "category": "Vans"
+    },
+    {
+        "name": "Old Skool Shoe Red",
+        "description": "The Color Theory Collection allows you to create a unique color story by pairing vibrant, unexpected hues with our iconic footwear styles. Made with a classic pairing of canvas and suede, the Color Theory Old Skool honors our heritage Sidestripe silhouette while offering a fresh look that boosts the appeal of this unmistakable go-to shoe.",
+        "price": 70.00,
+        "image": "https://images.vans.com/is/image/Vans/VN0A4BV5_JV6_HERO?wid=1600&hei=1984&fmt=jpeg",
+        "category": "Vans"
+    },
+    {
+        "name": "Classic Slip-On Checkerboard Shoe",
+        "description": "What started life in 1979 as the Vans #98 has become one of the most popular shoes in Southern California, and one of the most instantly recognizable shoes in the world. Slip-On shoes are undeniably stylish, but few come close to the Vans Classic Slip-On Checkerboard for instantaneous excellence. This is a design that never goes out of fashion and a shoe that never loses its comfort. When it comes to Vans “Off The Wall” style, this checkered Slip-On shoe is an everyday essential.",
+        "price": 60.00,
+        "image": "https://images.vans.com/is/image/Vans/VN000EYE_BWW_HERO?wid=1600&hei=1984&fmt=jpeg",
+        "category": "Vans"
+    },
+    {
+        "name": "Sk8-Hi Shoe",
+        "description": "The Sk8-Hi was a game changer as the first high-top skate shoe to break onto the scene. With a padded collar for ankle support and reinforced toe caps, it remains a style like no other. The Sk8-Hi was our second model to showcase the Vans Sidestripe, and its bold design has remained iconic ever since.",
+        "price": 75.00,
+        "image": "https://images.vans.com/is/image/Vans/VN000CMX_B7G_HERO?wid=1600&hei=1984&fmt=jpeg",
+        "category": "Vans"
+    },
+    {
+        "name": "Era Shoe",
+        "description": "The Era was the first shoe designed by skateboarders, for skateboarders, in 1976. An evolution of our original low-top silhouette, the Era placed an emphasis on comfort and style by debuting our famous padded collar. It was also our first shoe to feature the now iconic Off The Wall heel tab, and remains the shoe of choice for skaters, surfers, and creatives worldwide.",
+        "price": 55.00,
+        "image": "https://images.vans.com/is/image/Vans/VN000EWZ_NVY_HERO?wid=1600&hei=1984&fmt=jpeg",
+        "category": "Vans"
+    }
+
+
+
+
+]
